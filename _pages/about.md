@@ -18,26 +18,28 @@ My research interests mainly focus on mining software repository and empirical s
 
 ## Education
 
-B.S. in Information Security, Harbin Institute of Technology, 2019-2023, GPA: 93.53/100, Rank: 2/83.
+- B.S. in Information Security, Harbin Institute of Technology, 2019-2023, GPA: 93.53/100, Rank: 2/83.
 
-Ph.D. Candidate in Computer Software and Theory, Peking University, 2023-2028 (expected), Advisor: [Minghui Zhou](https://minghuizhou.github.io/).
+- Ph.D. Candidate in Computer Software and Theory, Peking University, 2023-2028 (expected), Advisor: [Minghui Zhou](https://minghuizhou.github.io/).
+
 
 ## Awards and Honors
 
-The First Prize of People's Scholarship, Harbin Institute of Technology  (2022)
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2022)
 
-Outstanding Student, Harbin Institute of Technology  (2022)
+- Outstanding Student, Harbin Institute of Technology  (2022)
 
-Excellent league member, Harbin Institute of Technology (2021)
+- Excellent league member, Harbin Institute of Technology (2021)
 
-Outstanding Student, Harbin Institute of Technology  (2020)
+- Outstanding Student, Harbin Institute of Technology  (2020)
 
-The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
 
-## Skills
+- ## Skills
+
 
 - Programming: Java, Python, C, Linux
 
 ## Hobbies
 
-Fitness, Singing, Playing the guitar, Watching movies
+- Fitness, Singing, Playing the guitar, Watching movies
