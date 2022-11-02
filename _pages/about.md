@@ -35,8 +35,8 @@ My research interests mainly focus on mining software repository and empirical s
 
 - The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
 
-- ## Skills
 
+## Skills
 
 - Programming: Java, Python, C, Linux
 
