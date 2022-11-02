@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Wenhao Yang"
-  avatar           : "2021SummerinTencent.jpg"
+  avatar           : "2021SummerinTencent_rectangle.jpg"
   bio              : "Aloha! (*^▽^*)"
-  location         : "Harbin, China"
+  location         : "Harbin Institute of Technology"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
