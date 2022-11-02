@@ -10,6 +10,6 @@ redirect_from:
 
 Aloha! Welcome to my personal website! 
 
-I am a senior student in [Faculty of Computing](https://computing.hit.edu.cn/) in [Harbin Institute of Technology](https://www.hit.edu.cn/).
+I am a senior student at [Faculty of Computing](https://computing.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/).
 
 (Content to be added...)

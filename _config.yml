@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenhao Yang"
+title                    : "Wenhao Yang (杨文昊)"
 title_separator          : "-"
 name                     : &name "Wenhao Yang"
-description              : &description "personal description"
+description              : &description "Senior Student at Faculty of Computing, Harbin Institute of Technology"
 url                      : https://YangWenhao3906.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YangWenhao3906/YangWenhao3906.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenhao Yang"
-  avatar           : "2021SummerinTencent_rectangle.jpg"
-  bio              : "Aloha! (*^▽^*)"
+  name             : "Wenhao Yang</br>杨文昊"
+  avatar           : "2021SummerinTencent_rectangle2.jpg"
+  bio              : "Aloha! (*^▽^*)</br>Senior Student at Faculty of Computing, Harbin Institute of Technology"
   location         : "Harbin Institute of Technology"
   employer         :
   pubmed           : 
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
