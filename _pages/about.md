@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Aloha! Welcome to my personal website! 
+我现在OSSlab实习, 即将成为这里的一名博士研究生
+
+Aloha! (*^▽^*) Welcome to my personal website! 
 
 I am a senior student at [Faculty of Computing](https://computing.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/).
 
-In September 2023, I will be a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Software Engineering Institute](http://www.sei.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/).
+In September 2023, I will be a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). I am currently an intern here.
 
-My research interests mainly focus on mining software repository and empirical studies for open-source software ecosystems. Recently I’m doing research on measuring developers in open-source software ecosystems.
+My research interests mainly focus on mining software repository and empirical studies for open-source software(OSS) ecosystems. Recently I’m doing research on measuring developers in OSS ecosystems.
 
 ## Education
 
