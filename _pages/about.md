@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-我现在OSSlab实习, 即将成为这里的一名博士研究生
-
 Aloha! (*^▽^*) Welcome to my personal website! 
 
 I am a senior student at [Faculty of Computing](https://computing.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/).
