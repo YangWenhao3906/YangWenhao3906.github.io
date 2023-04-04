@@ -18,7 +18,7 @@ My research interests mainly focus on mining software repository and empirical s
 
 ## Education
 
-- B.S. in Information Security, Harbin Institute of Technology, 2019-2023, GPA: 93.53/100, Rank: 2/83.
+- B.S. in Information Security, Harbin Institute of Technology, 2019-2023, GPA: 93.53/100, Rank: top 2%.
 
 - Ph.D. Candidate in Computer Software and Theory, Peking University, 2023-2028 (expected), Advisor: [Minghui Zhou](https://minghuizhou.github.io/).
 
