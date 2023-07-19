@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenhao Yang"
 title_separator          : "-"
 name                     : &name "Wenhao Yang"
-description              : &description "Senior Student at Faculty of Computing, Harbin Institute of Technology"
+description              : &description "Ph.D. candidate in Computer Software and Theory at Peking University"
 url                      : https://YangWenhao3906.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YangWenhao3906/YangWenhao3906.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wenhao Yang</br>杨文昊"
   avatar           : "2021SummerinTencent_rectangle2.jpg"
-  bio              : "</br>Aloha! (*^▽^*)</br></br> Senior student at Harbin Institute of Technology</br></br> Intern at Peking University"
-  location         : "Harbin, China"
+  bio              : "</br>Aloha! (*^▽^*)</br></br> Ph.D. candidate in Computer Software and Theory at Peking University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yangwh0828@gmail.com"
+  email            : "yangwh@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
