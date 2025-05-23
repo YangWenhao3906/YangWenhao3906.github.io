@@ -10,9 +10,9 @@ redirect_from:
 
 Aloha! (｡･ω･｡)ﾉ♡  Welcome to my personal website! 
 
-I'm a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
+I'm a PhD student in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
-My research interests mainly focus on mining software repository and empirical studies for open-source software(OSS) ecosystems. Recently I’m doing research on measuring developers in OSS ecosystems. If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
+My research interests mainly focus on open-source software(OSS) supply chain and OSS community. If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
 
 
 ## Education
@@ -30,8 +30,6 @@ My research interests mainly focus on mining software repository and empirical s
 
 - Outstanding Student, Harbin Institute of Technology  (2022)
 
-- Excellent league member, Harbin Institute of Technology (2021)
-
 - Outstanding Student, Harbin Institute of Technology  (2020)
 
 - The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
@@ -39,7 +37,7 @@ My research interests mainly focus on mining software repository and empirical s
 
 ## Skills
 
-- Programming: Java, Python, C, Linux
+- Programming: Java, Python, C, Linux, Rust
 
 ## Hobbies
 
