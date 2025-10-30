@@ -10,9 +10,13 @@ redirect_from:
 
 Aloha! (｡･ω･｡)ﾉ♡  Welcome to my personal website! 
 
-I'm a PhD student in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
+I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
 My research interests mainly focus on open-source software(OSS) supply chain and OSS community. If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
+
+## News
+
+- [2024.04] Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) is accepted by FSE 2024.
 
 
 ## Education
@@ -28,11 +32,11 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 - The First Prize of People's Scholarship, Harbin Institute of Technology  (2022)
 
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
+
 - Outstanding Student, Harbin Institute of Technology  (2022)
 
 - Outstanding Student, Harbin Institute of Technology  (2020)
-
-- The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
 
 
 ## Skills
