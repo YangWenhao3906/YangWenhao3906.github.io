@@ -26,6 +26,11 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 - Ph.D. Candidate in Computer Software and Theory, [Peking University](https://www.pku.edu.cn/), 2023-2028 (expected), Advisor: [Minghui Zhou](https://minghuizhou.github.io/).
 
 
+## Teaching
+
+- Teaching Assistant, Quantitative Analysis on Open Source Software (Graduate-level, in English), Peking University (Spring 2024)
+
+
 ## Awards and Honors
 
 - The First Prize of People's Scholarship, Harbin Institute of Technology  (2023)
