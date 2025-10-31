@@ -33,11 +33,11 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## Awards and Honors
 
-- The First Prize of People's Scholarship, Harbin Institute of Technology  (2023)
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2023, Top 3%)
 
-- The First Prize of People's Scholarship, Harbin Institute of Technology  (2022)
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2022, Top 3%)
 
-- The First Prize of People's Scholarship, Harbin Institute of Technology  (2020)
+- The First Prize of People's Scholarship, Harbin Institute of Technology  (2020, Top 3%)
 
 - Outstanding Student, Harbin Institute of Technology  (2022)
 
