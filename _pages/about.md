@@ -16,6 +16,8 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## News
 
+- [2025.11] Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025, Wuhan](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource).
+
 - [2025.10] Our new Preprint ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882) is now available on arXiv.
 
 - [2024.04] Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) is accepted by FSE 2024.
