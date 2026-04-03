@@ -16,6 +16,8 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## News
 
+- [2025.03] Our new Preprint ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is now available on arXiv.
+
 - [2025.11] Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025, Wuhan](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource).
 
 - [2025.10] Our new Preprint ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882) is now available on arXiv.
