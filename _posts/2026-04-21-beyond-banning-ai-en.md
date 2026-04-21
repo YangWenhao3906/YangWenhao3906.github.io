@@ -8,9 +8,6 @@ tags:
   - Governance
 ---
 
-
-# Beyond Banning AI: How 67 Open Source Projects Are Governing GenAI Contributions
-
 Over the past year, one question has dominated discussions about GenAI and open source:
 
 **Should open source projects ban AI contributions?**
