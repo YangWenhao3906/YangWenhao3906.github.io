@@ -2,6 +2,10 @@
 title: 'Beyond Banning AI: How 67 Open Source Projects Are Governing GenAI Contributions'
 date: 2026-04-21
 permalink: /posts/2026/04/Beyond Banning AI/
+tags:
+  - GenAI
+  - OSS
+  - Governance
 ---
 
 
