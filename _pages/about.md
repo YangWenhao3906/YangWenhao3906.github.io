@@ -16,6 +16,8 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## News
 
+- [2026.05] Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, August 7–9, 2026, as part of the [Community track](https://asia.communityovercode.org/tracks/community.html).
+
 - [2026.03] Our new Preprint ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is now available on arXiv.
 
 - [2025.11] Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025, Wuhan](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource).
