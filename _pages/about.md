@@ -16,6 +16,8 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## News
 
+- [2026.07] Our new Preprint ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf) is now available.
+
 - [2026.05] Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, August 7–9, 2026, as part of the [Community track](https://asia.communityovercode.org/tracks/community.html).
 
 - [2026.03] Our new Preprint ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is now available on arXiv.
