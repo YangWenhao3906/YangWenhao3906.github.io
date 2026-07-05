@@ -16,8 +16,6 @@ My research interests mainly focus on open-source software(OSS) supply chain and
 
 ## News
 
-https://arxiv.org/abs/2607.02059
-
 - [2026.07] Our new Preprint ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf) is now available.
 
 - [2026.07] Our new Preprint ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059) is now available on arXiv.
