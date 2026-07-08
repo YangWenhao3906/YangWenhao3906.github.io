@@ -12,23 +12,25 @@ Aloha! (｡･ω･｡)ﾉ♡  Welcome to my personal website!
 
 I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
-My research interests mainly focus on open-source software(OSS) supply chain and OSS community. If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
+My research interests include open-source software (OSS) supply chain, OSS risk governance, empirical software engineering, and the intersection of AI and open source (e.g., GenAI governance, AI-assisted code review). If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
 
-## News
+## Publications
 
-- [2026.07] Our new Preprint ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf) is now available.
+- [2026.07] **Preprint**: ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf)
 
-- [2026.07] Our new Preprint ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059) is now available on arXiv.
+- [2026.07] **arXiv**: ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059)
 
-- [2026.05] Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, August 7–9, 2026, as part of the [Community track](https://asia.communityovercode.org/tracks/community.html).
+- [2026.03] **arXiv**: ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487)
 
-- [2026.03] Our new Preprint ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is now available on arXiv.
+- [2025.10] **arXiv**: ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882)
 
-- [2025.11] Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025, Wuhan](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource).
+- [2024.04] **CCF-A**: ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), FSE 2024.
 
-- [2025.10] Our new Preprint ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882) is now available on arXiv.
+## Talks
 
-- [2024.04] Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) is accepted by FSE 2024.
+- [2026.05] Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
+
+- [2025.11] Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
 
 
 ## Education
