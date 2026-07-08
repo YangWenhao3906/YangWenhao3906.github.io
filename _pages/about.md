@@ -18,7 +18,7 @@ My research interests include open-source software (OSS) supply chain, OSS risk 
 
 - *2026.07*: Our new Preprint ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf) is now available.
 - *2026.07*: Our new Preprint ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059) is now available on arXiv.
-- *2026.06*: Our paper "Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities" is accepted by ASE 2026.
+- *2026.06*: Our paper ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is accepted by ASE 2026.
 - *2026.05*: Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
 - *2026.03*: Our new Preprint ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487) is now available on arXiv.
 - *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
