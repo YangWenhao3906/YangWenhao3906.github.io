@@ -5,6 +5,6 @@ date: 2024-04-01
 venue: "FSE 2024"
 ccf: "A"
 paperurl: "https://doi.org/10.1145/3660822"
-authors: "Wenhao Yang, Minghui Zhou"
+authors: "Kai Gao, Weiwei Xu, Wenhao Yang, Minghui Zhou"
 excerpt: "PyPI packages often lack accurate source code repository metadata, hindering downstream analysis. We propose PyRadar, an automated approach to retrieve and validate the source code repository information for PyPI packages."
 ---
