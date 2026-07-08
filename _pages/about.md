@@ -26,11 +26,11 @@ My research interests include open-source software (OSS) supply chain, OSS risk 
 
 ## 📝 Publications
 
-- `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <u>Wenhao Yang</u>, Runzhi He, Minghui Zhou.
-- `arXiv 2026` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <u>Wenhao Yang</u>, Minghui Zhou.
-- `arXiv 2026` ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487), <u>Wenhao Yang</u>, Runzhi He, Minghui Zhou.
-- `arXiv 2025` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <u>Wenhao Yang</u>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
-- `FSE 2024` ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), Kai Gao, Weiwei Xu, <u>Wenhao Yang</u>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
+- `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
+- `arXiv 2026` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou.
+- `arXiv 2026` ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
+- `arXiv 2025` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <strong>Wenhao Yang</strong>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
+- `FSE 2024` ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), Kai Gao, Weiwei Xu, <strong>Wenhao Yang</strong>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
 
 ## 💬 Invited Talks
 
