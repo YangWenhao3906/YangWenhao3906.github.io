@@ -16,6 +16,15 @@ My research interests include open-source software (OSS) supply chain, OSS risk 
 
 ## 🔥 News
 
+- *2026.07*: Our new Preprint "AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review" is now available. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
+- *2026.07*: Our new Preprint "File-Level Copying Is an Implicit Dependency in Open Source" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.02059)
+- *2026.06*: Our paper "Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities" is accepted by [ASE 2026](https://conf.researchr.org/home/ase-2026).
+- *2026.05*: Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
+- *2026.03*: Our new Preprint "Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2603.26487)
+- *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
+- *2025.10*: Our new Preprint "Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2510.25882)
+- *2024.04*: Our paper "PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages" is accepted by [FSE 2024](https://2024.esec-fse.org/).
+
 ## 📝 Publications
 
 - `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
