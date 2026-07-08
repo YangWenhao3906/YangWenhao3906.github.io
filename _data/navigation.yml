@@ -4,10 +4,10 @@ main:
     url: /#-news
 
   - title: "Publications"
-    url: /#-publications
+    url: /publications/
 
   - title: "Talks"
-    url: /#-invited-talks
+    url: /talks/
 
   - title: "Blog Posts"
     url: /year-archive/
