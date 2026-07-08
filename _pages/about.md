@@ -29,7 +29,7 @@ My research interests include open-source software (OSS) supply chain, OSS risk 
 - `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), **Wenhao Yang**, Runzhi He, Minghui Zhou. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
 - `arXiv 2026` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, **Wenhao Yang**, Minghui Zhou. [[arXiv]](https://arxiv.org/abs/2607.02059)
 - `arXiv 2026` ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487), **Wenhao Yang**, Runzhi He, Minghui Zhou. [[arXiv]](https://arxiv.org/abs/2603.26487)
-- `arXiv 2025` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), **Wenhao Yang**, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. [[arXiv]](https://arxiv.org/abs/2510.25882)
+- `arXiv 2025` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), **Wenhao Yang**, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)* [[arXiv]](https://arxiv.org/abs/2510.25882)
 - `FSE 2024` ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), Kai Gao, Weiwei Xu, **Wenhao Yang**, Minghui Zhou. (<span style="color:red">CCF-A</span>) [[DOI]](https://doi.org/10.1145/3660822)
 
 ## 💬 Invited Talks
