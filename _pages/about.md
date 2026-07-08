@@ -10,8 +10,6 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Aloha! (｡･ω･｡)ﾉ♡  Welcome to my personal website! 
-
 I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor's Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
 My research interests include open-source software (OSS) supply chain, OSS risk governance, empirical software engineering, and the intersection of AI and open source (e.g., GenAI governance, AI-assisted code review). If you are interested in any of the research topics, feel free to contact me (yangwh@stu.pku.edu.cn) and we can start a collaboration!
