@@ -35,8 +35,8 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 💬 Invited Talks
 
-- *2026.05*, "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions", [Community Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
-- *2025.11*, "Building an Enterprise Open Source Risk Governance Immune System", [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
+- *2026.05*, ["Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html), [Community Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
+- *2025.11*, "Building an Enterprise Open Source Risk Governance Immune System", [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
 
 ## 📖 Educations
 
