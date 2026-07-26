@@ -16,6 +16,7 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 🔥 News
 
+- *2026.07*: Our new Preprint "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.19022)
 - *2026.07*: Our new Preprint "AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review" is now available. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
 - *2026.07*: Our new Preprint "File-Level Copying Is an Implicit Dependency in Open Source" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.02059)
 - *2026.06*: Our paper "Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities" is accepted by [ASE 2026](https://conf.researchr.org/home/ase-2026).
@@ -27,6 +28,7 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 📝 Publications
 
+- `arXiv 2026` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
 - `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
 - `arXiv 2026` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou.
 - `ASE 2026` ["Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"](https://arxiv.org/abs/2603.26487), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. (<span style="color:red">CCF-A</span>)

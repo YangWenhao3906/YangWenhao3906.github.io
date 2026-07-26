@@ -1,0 +1,9 @@
+---
+title: "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"
+permalink: /publication/2026-07-from-collaboration-to-regulation
+date: 2026-07-21
+venue: "arXiv"
+arxiv: "https://arxiv.org/abs/2607.19022"
+authors: "Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou"
+excerpt: "Collaboration in Open Source Software (OSS) projects creates substantial coordination and quality-control challenges across diverse contributor bases. Projects address these challenges through documented governance rules, yet maintainers have limited systematic guidance on what rules to codify, when to introduce or revise them, and how to organize them across documents. We conducted a mixed-methods empirical study of three mature deep learning frameworks: PyTorch, TensorFlow, and Paddle. Using the Institutional Analysis and Development framework, we analyzed 109 documents and identified 17 rule themes across seven rule types. Operational rules, such as workflows, appeared across all three projects, whereas structural rules, such as role hierarchies, varied more substantially. Tracing more than 1,700 commits, we found that operational rule themes generally appeared earlier and were revised more frequently, while many structural rule themes emerged later and changed less often. Rule-bearing content also became increasingly specialized across task- and role-specific files. We further identified four governance functions reflected in substantive rule changes: Norm Alignment, Workflow Refinement, Coordination Structuring, and Community and Governance Development. Synthesizing these findings, we derive 33 actionable governance practices for mature, large-scale OSS projects with substantial coordination demands and organizational involvement."
+---
