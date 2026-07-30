@@ -1,5 +1,5 @@
 ---
-title: "Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities"
+title: "To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"
 permalink: /publication/2026-03-beyond-banning-ai
 date: 2026-03-01
 venue: "ASE 2026"
