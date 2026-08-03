@@ -20,7 +20,7 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 - *2026.07*: Our new Preprint "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.19022)
 - *2026.07*: Our new Preprint "AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review" is now available. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
 - *2026.07*: Our new Preprint "File-Level Copying Is an Implicit Dependency in Open Source" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.02059)
-- *2026.06*: 🎉 Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**!
+- *2026.06*: 🎉 Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
 - *2026.05*: Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
 - *2026.03*: Our new Preprint "To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2603.26487)
 - *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
@@ -29,12 +29,12 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 📝 Publications
 
-- `arXiv 2026` ["A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities"](https://arxiv.org/abs/2607.26819), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
-- `arXiv 2026` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
+- `arXiv` ["A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities"](https://arxiv.org/abs/2607.26819), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
+- `arXiv` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
 - `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
-- `arXiv 2026` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou.
+- `arXiv` ["File-Level Copying Is an Implicit Dependency in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou.
 - `ASE 2026` ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://arxiv.org/abs/2603.26487), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. (<span style="color:red">CCF-A</span>)
-- `arXiv 2025` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <strong>Wenhao Yang</strong>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
+- `arXiv` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <strong>Wenhao Yang</strong>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
 - `FSE 2024` ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), Kai Gao, Weiwei Xu, <strong>Wenhao Yang</strong>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
 
 ## 💬 Invited Talks
