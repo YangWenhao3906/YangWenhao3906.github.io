@@ -16,7 +16,7 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 🔥 News
 
-- *2026.08*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, co-presented with Runzhi He.
+- *2026.08.07*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, co-presented with Runzhi He.
 - *2026.07*: Our new Preprint "A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.26819)
 - *2026.07*: Our new Preprint "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.19022)
 - *2026.07*: Our new Preprint "AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review" is now available. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
