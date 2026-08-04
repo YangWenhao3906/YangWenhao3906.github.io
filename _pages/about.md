@@ -16,12 +16,12 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 🔥 News
 
+- *2026.08*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing, co-presented with Runzhi He.
 - *2026.07*: Our new Preprint "A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.26819)
 - *2026.07*: Our new Preprint "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.19022)
 - *2026.07*: Our new Preprint "AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review" is now available. [[PDF]](/files/ai-cannot-review-what-humans-catch.pdf)
 - *2026.07*: Our new Preprint "File-Level Copying Is an Implicit Dependency in Open Source" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.02059)
 - *2026.06*: 🎉 Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
-- *2026.05*: Invited talk "Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions" at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
 - *2026.03*: Our new Preprint "To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2603.26487)
 - *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
 - *2025.10*: Our new Preprint "Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2510.25882)
@@ -39,7 +39,7 @@ My research interests lie in open-source software (OSS) supply chain, OSS risk g
 
 ## 💬 Invited Talks
 
-- *2026.05*, ["Beyond Banning AI: How Open Source Communities Are Governing GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html), [Community Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
+- *2026.08*, ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html), co-presented with Runzhi He at [Community Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
 - *2025.11*, "Building an Enterprise Open Source Risk Governance Immune System", [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
 
 ## 📖 Educations
