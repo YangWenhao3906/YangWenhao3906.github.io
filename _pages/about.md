@@ -16,7 +16,7 @@ redirect_from:
 
 I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by [Dr. Pengfei Gao](https://cumt-gpf.github.io/). Before that, I received my Bachelor's Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
-My research focuses on **coding agents** and **AI governance** in software engineering. I study how coding agents follow repository instructions and contribution rules, how their behavior can be evaluated and made more reliable, and how open-source communities govern AI-assisted contributions. My work combines empirical studies with benchmark-based evaluation, building on my broader interests in open-source software ecosystems and risk governance. Feel free to reach out at yangwh@stu.pku.edu.cn!
+My research interests lie in **coding agents** and **AI governance**, with a focus on reliable and responsible AI in open-source software. Feel free to reach out at yangwh@stu.pku.edu.cn!
 
 ## 🔥 News
 
