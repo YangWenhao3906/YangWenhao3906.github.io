@@ -10,12 +10,17 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor's Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
+<p class="name-intro">Hi, I'm <strong>Wenhao Yang</strong> <span class="name-note">(杨文昊, pronounced like "when how young" <button class="pronunciation-button" type="button" aria-label="Play pronunciation of Wenhao Yang" title="Play pronunciation" aria-controls="name-pronunciation"><i class="fas fa-volume-up" aria-hidden="true"></i></button>)</span>.</p>
+<audio id="name-pronunciation" src="{{ '/assets/audio/wenhao-yang.wav' | relative_url }}" preload="none"></audio>
+<span id="pronunciation-status" class="visually-hidden" role="status"></span>
 
-My research interests lie in open-source software (OSS) supply chain, OSS risk governance, empirical software engineering, and GenAI governance. Feel free to reach out at yangwh@stu.pku.edu.cn!
+I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), mentored by [Dr. Pengfei Gao](https://cumt-gpf.github.io/). Before that, I received my Bachelor's Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
+
+My research focuses on **coding agents** and **AI governance** in software engineering. I study how coding agents follow repository instructions and contribution rules, how their behavior can be evaluated and made more reliable, and how open-source communities govern AI-assisted contributions. My work combines empirical studies with benchmark-based evaluation, building on my broader interests in open-source software ecosystems and risk governance. Feel free to reach out at yangwh@stu.pku.edu.cn!
 
 ## 🔥 News
 
+- *2026.08*: I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, mentored by [Dr. Pengfei Gao](https://cumt-gpf.github.io/).
 - *2026.08.07*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
 - *2026.07*: Our new Preprint "A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.26819)
 - *2026.07*: Our new Preprint "From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities" is now available on arXiv. [[arXiv]](https://arxiv.org/abs/2607.19022)

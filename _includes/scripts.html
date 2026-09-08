@@ -1,4 +1,8 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+{% if page.permalink == '/' %}
+<script src="{{ '/assets/js/pronunciation.js' | relative_url }}"></script>
+{% endif %}
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
