@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: /#-news
 
-  - title: "Publications"
+  - title: "Papers"
     url: /publications/
 
   - title: "Talks"
