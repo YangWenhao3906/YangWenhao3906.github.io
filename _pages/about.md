@@ -16,13 +16,13 @@ redirect_from:
 
 I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor's Degree in Information Security at [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2023.
 
-I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/).
+I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/).
 
 My research interests lie in **coding agents** and **AI governance**, with a focus on reliable and responsible AI in open-source software. Feel free to reach out at [yangwh@stu.pku.edu.cn](mailto:yangwh@stu.pku.edu.cn)!
 
 ## 🔥 News
 
-- *2026.08*: 💼 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working with [Dr. Pengfei Gao](https://cumt-gpf.github.io/).
+- *2026.08*: 💼 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/).
 - *2026.08*: 🎤 Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
 - *2026.06*: 📄 Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
 - *2025.11*: 🎤 Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/#agenda/academic-forum/opensource), Wuhan.
