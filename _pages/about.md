@@ -28,7 +28,7 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 - *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/ccf.png' | relative_url }}" alt="" aria-hidden="true">CCF</span> ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
 - *2024.04*: Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) has been accepted to **FSE 2024**! (<span style="color:red">CCF-A</span>)
 
-## 📝 Publications
+## 📝 Papers
 
 - `arXiv` ["A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities"](https://arxiv.org/abs/2607.26819), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
 - `arXiv` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
