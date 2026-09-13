@@ -18,7 +18,7 @@ I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Sci
 
 I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [<span class="link-lead"><span class="link-logo link-logo--microsoft" aria-hidden="true"></span>Microsoft</span> Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working closely with [<span class="link-lead"><span class="link-logo link-portrait link-portrait--pengfei" style="background-image: url({{ '/assets/images/logos/pengfei-gao.jpeg' | relative_url }})" aria-hidden="true"></span>Dr.</span> Pengfei Gao](https://cumt-gpf.github.io/) and [<span class="link-lead"><span class="link-logo link-portrait link-portrait--dayi" style="background-image: url({{ '/assets/images/logos/dayi-lin.jpg' | relative_url }})" aria-hidden="true"></span>Dr.</span> Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [<span class="link-lead"><i class="fab fa-github link-logo" aria-hidden="true"></i>GitHub</span> Copilot](https://github.com/features/copilot)).
 
-My research interests lie in **coding agents** and **AI governance**, with a focus on reliable and responsible AI in open-source software. Feel free to reach out at [yangwh@stu.pku.edu.cn](mailto:yangwh@stu.pku.edu.cn)!
+My research interests lie in **coding agents** and **AI governance**, with a focus on reliable and responsible AI in open-source software. Feel free to reach out at [<span class="link-lead"><i class="fas fa-envelope link-logo" aria-hidden="true"></i>yangwh@stu.pku.edu.cn</span>](mailto:yangwh@stu.pku.edu.cn)!
 
 ## 🔥 News
 
