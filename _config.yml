@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenhao Yang</br>杨文昊"
   avatar           : "IMG_7453 2.JPG"
-  bio              : "</br>Aloha! (*^▽^*)</br></br> Ph.D. Candidate @ <img class='link-logo link-logo--image' src='/assets/images/logos/pku.png' alt='' aria-hidden='true'>Peking University<br>Research Intern @ <span class='link-logo link-logo--microsoft' aria-hidden='true'></span>Microsoft"
+  bio              : "</br>Aloha! (*^▽^*)</br></br> Ph.D. Candidate @ <span class='link-lead'>PKU<img class='link-logo link-logo--image' style='margin: 0 0 0 0.25em' src='/assets/images/logos/pku.png' alt='' aria-hidden='true'></span><br>Intern @ <span class='link-lead'>Microsoft<span class='link-logo link-logo--microsoft' style='margin: 0 0 0 0.25em' aria-hidden='true'></span></span>"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
