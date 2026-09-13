@@ -22,11 +22,11 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 
 ## 🔥 News
 
-- *2026.08*: 💼 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [GitHub Copilot](https://github.com/features/copilot)).
-- *2026.08*: 🎤 Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [Community Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
-- *2026.06*: 📄 Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
-- *2025.11*: 🎤 Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
-- *2024.04*: 📄 Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) has been accepted to **FSE 2024**! (<span style="color:red">CCF-A</span>)
+- *2026.08*: 🔬 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [GitHub Copilot](https://github.com/features/copilot)).
+- *2026.08*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/community-over-code.ico' | relative_url }}" alt="" aria-hidden="true">Community</span> Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
+- *2026.06*: Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://conf.researchr.org/details/ase-2026/ase-2026-research-track/152/To-Ban-or-Not-to-Ban-How-Open-Source-Projects-Govern-GenAI-Contributions) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
+- *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/ccf.png' | relative_url }}" alt="" aria-hidden="true">CCF</span> ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
+- *2024.04*: Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) has been accepted to **FSE 2024**! (<span style="color:red">CCF-A</span>)
 
 ## 📝 Publications
 
@@ -40,8 +40,8 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 
 ## 💬 Invited Talks
 
-- *2026.08*, ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html), [Community Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
-- *2025.11*, "Building an Enterprise Open Source Risk Governance Immune System", [CCF ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
+- *2026.08*, ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html), [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/community-over-code.ico' | relative_url }}" alt="" aria-hidden="true">Community</span> Over Code Asia 2026](https://asia.communityovercode.org/), Beijing.
+- *2025.11*, "Building an Enterprise Open Source Risk Governance Immune System", [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/ccf.png' | relative_url }}" alt="" aria-hidden="true">CCF</span> ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
 
 ## 📖 Educations
 
