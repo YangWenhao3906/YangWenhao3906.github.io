@@ -1,5 +1,5 @@
 ---
-title: "File-Level Copying Is an Implicit Dependency in Open Source"
+title: "File-Level Copying as Implicit Dependency: Forms, Rationales, and Impacts in Open Source"
 permalink: /publication/2026-07-file-level-copying
 date: 2026-07-01
 venue: "ICSE 2027"
