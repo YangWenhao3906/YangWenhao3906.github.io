@@ -22,6 +22,7 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 
 ## 🔥 News
 
+- *2026.11*: Our preprint ["Characterizing and Detecting Unfaithful Work Reports by Coding Agents"](https://arxiv.org/abs/2611.25760) is now available on arXiv.
 - *2026.10*: Our paper ["File-Level Copying as Implicit Dependency: Forms, Rationales, and Impacts in Open Source"](https://arxiv.org/abs/2607.02059) has been accepted to **ICSE 2027**! (<span style="color:red">CCF-A</span>)
 - *2026.08*: 🔬 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [GitHub Copilot](https://github.com/features/copilot)).
 - *2026.08*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/community-over-code.ico' | relative_url }}" alt="" aria-hidden="true">Community</span> Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
@@ -31,9 +32,10 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 
 ## 📝 Papers
 
+- `arXiv` ["Characterizing and Detecting Unfaithful Work Reports by Coding Agents"](https://arxiv.org/abs/2611.25760), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou, Pengfei Gao, Dayi Lin, Qingwei Lin, Dongmei Zhang.
 - `arXiv` ["A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities"](https://arxiv.org/abs/2607.26819), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
 - `arXiv` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
-- `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
+- `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. [[arXiv]](https://arxiv.org/abs/2611.18582)
 - `ICSE 2027` ["File-Level Copying as Implicit Dependency: Forms, Rationales, and Impacts in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
 - `ASE 2026` ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://doi.org/10.1145/3832783.3837448), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
 - `arXiv` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <strong>Wenhao Yang</strong>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
