@@ -1,6 +1,6 @@
 # Logo sources
 
-Original website assets; downloaded 2026-09-13, unmodified.
+Original website assets, unmodified. Downloaded 2026-09-13 unless noted.
 
 - pku.png: https://www.pku.edu.cn/pku_logo_red.png (also used by SEI's website as its icon)
 - pku-cs.png: https://cs.pku.edu.cn/images/favicon.png
@@ -11,6 +11,7 @@ Original website assets; downloaded 2026-09-13, unmodified.
 - minghui-zhou.jpg: https://minghuizhou.github.io/images/profile.JPG
 - pengfei-gao.jpeg: https://cumt-gpf.github.io/images/photo.jpeg
 - dayi-lin.jpg: https://i0.wp.com/lindayi.me/wp-content/uploads/2019/04/cropped-headshot.jpg?fit=180%2C180&ssl=1 (homepage touch icon)
+- dongmei-zhang.jpg: https://www.microsoft.com/en-us/research/wp-content/uploads/2020/05/dongmei-zhang.jpg (Microsoft Research profile portrait, downloaded 2026-11-21)
 - community-over-code.ico: https://asia.communityovercode.org/images/favicon.ico
 - ccf.png: https://chinasoft.ccf.org.cn/2025/images/logo/CCF_logo.png
 
