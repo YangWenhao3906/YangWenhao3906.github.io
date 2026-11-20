@@ -61,6 +61,9 @@ I'm always open to conversations and believe there is real value in exchanging i
 
 ## 🎖 Honors and Awards
 
+- *2026*, Lingjun Pilot Scholarship, Peking University
+- *2026*, Outstanding Student Leader, Peking University
+- *2025*, Social Service Award, Peking University
 - *2023*, The First Prize of People's Scholarship, Harbin Institute of Technology (Top 3%)
 - *2022*, Outstanding Student, Harbin Institute of Technology
 - *2022*, The First Prize of People's Scholarship, Harbin Institute of Technology (Top 3%)
@@ -77,4 +80,4 @@ I'm always open to conversations and believe there is real value in exchanging i
 
 ## 🎸 Hobbies
 
-- Singing, Playing table tennis, Playing the guitar, Working out, Watching movies
+- 🎤 Singing, 🏓 Playing table tennis, 🎸 Playing the guitar, 🏋️ Working out, 🎬 Watching movies
