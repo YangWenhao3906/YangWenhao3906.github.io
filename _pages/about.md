@@ -18,7 +18,15 @@ I'm a Ph.D. Candidate in Computer Software and Theory at [School of Computer Sci
 
 I am currently a research intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group at [<span class="link-lead"><span class="link-logo link-logo--microsoft" aria-hidden="true"></span>Microsoft</span> Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working closely with [<span class="link-lead"><span class="link-logo link-portrait link-portrait--pengfei" style="background-image: url({{ '/assets/images/logos/pengfei-gao.jpeg' | relative_url }})" aria-hidden="true"></span>Dr.</span> Pengfei Gao](https://cumt-gpf.github.io/) and [<span class="link-lead"><span class="link-logo link-portrait link-portrait--dayi" style="background-image: url({{ '/assets/images/logos/dayi-lin.jpg' | relative_url }})" aria-hidden="true"></span>Dr.</span> Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [<span class="link-lead"><i class="fab fa-github link-logo" aria-hidden="true"></i>GitHub</span> Copilot](https://github.com/features/copilot)).
 
-My research interests lie in **coding agents** and **AI governance**, with a focus on reliable and responsible AI in open-source software. Feel free to reach out at [<span class="link-lead"><i class="fas fa-envelope link-logo" aria-hidden="true"></i>yangwh@stu.pku.edu.cn</span>](mailto:yangwh@stu.pku.edu.cn)!
+## Research Interests
+
+I believe software engineering is at a turning point as AI agents become participants in a field long organized around human contributors. I want to understand how this shift changes software engineering and help ensure that agents participate responsibly and earn the trust of developers and software communities.
+
+- **Trustworthy Coding Agents.** Understanding failures in agent behavior and oversight, including [unfaithful work reporting](https://arxiv.org/abs/2611.25760) and [reviews of agent instruction files](https://arxiv.org/abs/2611.18582).
+- **AI Governance in Software Engineering.** Understanding how software projects [respond to AI-generated contributions](https://doi.org/10.1145/3832783.3837448) and whether agents [comply with the rules that govern their participation](https://arxiv.org/abs/2607.26819).
+- **Open-Source Software Ecosystems.** Understanding how open-source communities [organize collaboration](https://arxiv.org/abs/2607.19022) and manage software [reuse](https://arxiv.org/abs/2607.02059), [provenance](https://doi.org/10.1145/3660822), and [risk](https://arxiv.org/abs/2510.25882).
+
+I'm always open to conversations and believe there is real value in exchanging ideas, experiences, and perspectives. If you have thoughts on my work, a question, a different perspective, or an idea for research or collaboration, I'd be glad to hear from you. I'm also happy to share what I know or help when I can. You can reach me at [<span class="link-lead"><i class="fas fa-envelope link-logo" aria-hidden="true"></i>yangwh@stu.pku.edu.cn</span>](mailto:yangwh@stu.pku.edu.cn).
 
 ## 🔥 News
 
@@ -29,17 +37,6 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 - *2026.06*: Our paper ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://doi.org/10.1145/3832783.3837448) has been accepted to **ASE 2026**! (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
 - *2025.11*: Invited talk "Building an Enterprise Open Source Risk Governance Immune System" at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/ccf.png' | relative_url }}" alt="" aria-hidden="true">CCF</span> ChinaSoft 2025](https://chinasoft.ccf.org.cn/2025/#agenda/academic-forum/opensource), Wuhan.
 - *2024.04*: Our paper ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822) has been accepted to **FSE 2024**! (<span style="color:red">CCF-A</span>)
-
-## 📝 Papers
-
-- `arXiv` ["Characterizing and Detecting Unfaithful Work Reports by Coding Agents"](https://arxiv.org/abs/2611.25760), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou, Pengfei Gao, Dayi Lin, Qingwei Lin, Dongmei Zhang.
-- `arXiv` ["A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities"](https://arxiv.org/abs/2607.26819), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou.
-- `arXiv` ["From Collaboration to Regulation: Characterizing Governance Practice in Three Deep Learning Open Source Communities"](https://arxiv.org/abs/2607.19022), Ruiqiao Qiu, <strong>Wenhao Yang</strong>, Minghui Zhou.
-- `Preprint 2026` ["AI Cannot Review What Humans Catch: An Empirical Study of Agent Instruction File Review"](/files/ai-cannot-review-what-humans-catch.pdf), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. [[arXiv]](https://arxiv.org/abs/2611.18582)
-- `ICSE 2027` ["File-Level Copying as Implicit Dependency: Forms, Rationales, and Impacts in Open Source"](https://arxiv.org/abs/2607.02059), Runzhi He, Audris Mockus, <strong>Wenhao Yang</strong>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
-- `ASE 2026` ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://doi.org/10.1145/3832783.3837448), <strong>Wenhao Yang</strong>, Runzhi He, Minghui Zhou. (<span style="color:red">CCF-A</span>) [[arXiv]](https://arxiv.org/abs/2603.26487)
-- `arXiv` ["Internal Vulnerabilities, External Threats: A Grounded Framework for Enterprise Open Source Risk Governance"](https://arxiv.org/abs/2510.25882), <strong>Wenhao Yang</strong>, Minghui Zhou, Daniel Izquierdo Cortázar, Yehui Wang. (<span style="color:red">CCF-A</span>) *(Major Revision at TOSEM)*
-- `FSE 2024` ["PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages"](https://doi.org/10.1145/3660822), Kai Gao, Weiwei Xu, <strong>Wenhao Yang</strong>, Minghui Zhou. (<span style="color:red">CCF-A</span>)
 
 ## 💬 Invited Talks
 
