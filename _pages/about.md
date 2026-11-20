@@ -66,4 +66,4 @@ I'm always open to conversations and believe there is real value in exchanging i
 
 ## 🎸 Hobbies
 
-- Fitness, Singing, Playing the guitar, Watching movies
+- Singing, Table Tennis, Playing the guitar, Fitness, Watching movies
