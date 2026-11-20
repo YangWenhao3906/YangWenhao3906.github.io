@@ -22,7 +22,7 @@ My research interests lie in **coding agents** and **AI governance**, with a foc
 
 ## 🔥 News
 
-- *2026.11*: Our preprint ["Characterizing and Detecting Unfaithful Work Reports by Coding Agents"](https://arxiv.org/abs/2611.25760) is now available on arXiv.
+- *2026.11*: Our preprint ["Characterizing and Detecting Unfaithful Work Reports by Coding Agents"](https://arxiv.org/abs/2611.25760), a collaboration between Peking University and <span class="link-lead"><span class="link-logo link-logo--microsoft" aria-hidden="true"></span>Microsoft</span>, is now available on arXiv.
 - *2026.10*: Our paper ["File-Level Copying as Implicit Dependency: Forms, Rationales, and Impacts in Open Source"](https://arxiv.org/abs/2607.02059) has been accepted to **ICSE 2027**! (<span style="color:red">CCF-A</span>)
 - *2026.08*: 🔬 I joined [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Intern in the [Data, Knowledge, and Intelligence (DKI)](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) group, working closely with [Dr. Pengfei Gao](https://cumt-gpf.github.io/) and [Dr. Dayi Lin](https://lindayi.me/) ([Microsoft CoreAI](https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/) / [GitHub Copilot](https://github.com/features/copilot)).
 - *2026.08*: Invited talk ["To Ban or Not to Ban? How Open Source Projects Govern GenAI Contributions"](https://asia.communityovercode.org/sessions/community-1210509.html) at [<span class="link-lead"><img class="link-logo link-logo--image" src="{{ '/assets/images/logos/community-over-code.ico' | relative_url }}" alt="" aria-hidden="true">Community</span> Over Code Asia 2026](https://asia.communityovercode.org/) in Beijing.
