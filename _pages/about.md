@@ -76,7 +76,9 @@ I'm always open to conversations and believe there is real value in exchanging i
 
 ## 🔧 Skills
 
-- Programming: Java, Python, C, Linux, Rust
+- **Agentic AI and Evaluation.** Coding agent benchmarking, trajectory analysis, and evaluation of instruction following and rule compliance. Tools include Codex, Claude Code, and OpenCode.
+- **Empirical Software Engineering.** Repository mining, mixed-methods research, quantitative analysis, qualitative coding, and grounded theory.
+- **Programming and Systems.** Python, Java, C, Rust, and Linux.
 
 ## 🎸 Hobbies
 
